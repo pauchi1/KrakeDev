@@ -1,1 +1,2 @@
 git clone: <escribir para qué sirve el comando>
+git commit: <colocar la explicación de para qué sirve>
