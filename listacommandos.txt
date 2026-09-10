@@ -1,2 +1,5 @@
 git clone: <escribir para qué sirve el comando>
 git commit: <colocar la explicación de para qué sirve>
+git push: <ayuda a subir el archivo a githud>
+git status: <nos da el estado de como está la carpeta seleccionada>
+git add: <agrega a githud los cambios o el archivo>
